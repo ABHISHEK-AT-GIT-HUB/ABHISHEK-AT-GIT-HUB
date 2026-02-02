@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abhishek Choudhary</h1>
 <h3 align="center">A passionate software developer from India</h3>
 
-- 🔭 I’m currently working on [BookHome](https://github.com/ABHISHEK-AT-GIT-HUB/BookHome.git)
-
-- 🌱 I’m currently learning **Spring framework**
+- I’m currently working on multiple innovative projects that combine Web Development, and Automation to create real-world solutions.🧵 Alongside this, I’m developing a Textile E-Commerce Platform using the MERN stack (MongoDB, Express.js, React, Node.js). It includes features like user and admin authentication, product management, shopping cart, checkout system with Razorpay integration, and order history tracking. I’m also expanding it with address management, secure payment flow, and role-based admin routes for better scalability. 🦋 Additionally, I’m working on a creative web project named “Butterfly Quiz”, an interactive learning experience where users answer quiz questions and visually grow a flower garden — with a butterfly gracefully landing on the final flower when all answers are correct. 💡 These projects reflect my passion for AI-driven automation, clean UI design, and full-stack web development, as I continue to explore React, TypeScript, Next.js, TailwindCSS, Node.js, Express, and MongoDB while integrating intelligent and visually appealing user experiences. [https://github.com/ABHISHEK-AT-GIT-HUB?tab=repositories](https://github.com/ABHISHEK-AT-GIT-HUB?tab=repositories)
 
 - 📫 How to reach me **abhishekchoudhary81538@gmail.com**
 
