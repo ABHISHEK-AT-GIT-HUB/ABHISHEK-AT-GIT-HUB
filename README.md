@@ -1,17 +1,82 @@
 <h1 align="center">Hi 👋, I'm Abhishek Choudhary</h1>
-<h3 align="center">A passionate software developer from India</h3>
+<h3 align="center">A passionate Full‑Stack Software Developer from India 🚀</h3>
 
-- I’m currently working on multiple innovative projects that combine Web Development, and Automation to create real-world solutions.<br>🧵 Alongside this, I’m developing a Textile E-Commerce Platform using the MERN stack (MongoDB, Express.js, React, Node.js). It includes features like user and admin authentication, product management, shopping cart, checkout system with Razorpay integration, and order history tracking. I’m also expanding it with address management, secure payment flow, and role-based admin routes for better scalability. <br>🦋 Additionally, I’m working on a creative web project named “Butterfly Quiz”, an interactive learning experience where users answer quiz questions and visually grow a flower garden — with a butterfly gracefully landing on the final flower when all answers are correct.<br> 💡 These projects reflect my passion for AI-driven automation, clean UI design, and full-stack web development, as I continue to explore React, TypeScript, Next.js, TailwindCSS, Node.js, Express, and MongoDB while integrating intelligent and visually appealing user experiences.<br> [https://github.com/ABHISHEK-AT-GIT-HUB?tab=repositories](https://github.com/ABHISHEK-AT-GIT-HUB?tab=repositories)
-
-- 📫 How to reach me **abhishekchoudhary81538@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1c732IKc7zuSfJivZ7Moqb_VmsNzsLFq7/view?usp=drive_link](https://drive.google.com/file/d/1c732IKc7zuSfJivZ7Moqb_VmsNzsLFq7/view?usp=drive_link)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/abhishek-choudhary-85e8s" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhishek-choudhary-85e8s" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/ac3895648" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ac3895648" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://github.com/ABHISHEK-AT-GIT-HUB">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://linkedin.com/in/abhishek-choudhary-85e8s">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://www.hackerrank.com/ac3895648">
+    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank"/>
+  </a>
+  <a href="mailto:abhishekchoudhary81538@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
+---
+
+### 👨‍💻 About Me
+I’m a software developer passionate about **full-stack development, AI automation, and interactive web experiences**. I love building clean, efficient, and visually engaging applications.  
+
+- 🌟 Currently building a **Textile E-Commerce Platform** (MERN + Razorpay) with user/admin auth, cart, checkout, order tracking, and scalable admin routes.  
+- 🦋 Working on **Butterfly Quiz** — a gamified learning platform that grows a flower garden as users answer quiz questions, ending with a butterfly landing on the final flower.  
+- 💡 Exploring **React, Next.js, TypeScript, TailwindCSS, Node.js, Express, MongoDB**, and **automation workflows**.  
+
+🔗 Visit my repositories 👉 [My GitHub Projects](https://github.com/ABHISHEK-AT-GIT-HUB?tab=repositories)
+
+---
+
+### 🛠️ Languages & Tools
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/postman/postman-icon.svg" alt="Postman" width="40" height="40"/>
+  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+</p>
+
+---
+
+### 🏆 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ABHISHEK-AT-GIT-HUB&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ABHISHEK-AT-GIT-HUB&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+---
+
+### 🛠️ Featured Projects
+
+| Project | Description | Link |
+|---------|-------------|------|
+| **Textile E-Commerce Platform** | Full-featured MERN e-commerce platform with Razorpay integration, cart, checkout, and admin features. | 🔗 [Repo](https://github.com/ABHISHEK-AT-GIT-HUB/Textile-Ecommerce) |
+| **Butterfly Quiz** | Gamified quiz that grows a virtual garden with a butterfly landing on the final flower. | 🔗 [Repo](https://github.com/ABHISHEK-AT-GIT-HUB/Butterfly-Quiz) |
+| **AI/Automation Projects** | Automation and AI-based workflow projects using APIs and intelligent UI. | 🔗 [Repo](https://github.com/ABHISHEK-AT-GIT-HUB?tab=repositories) |
+
+---
+
+### 🌱 Learning
+- Advanced React & Next.js patterns  
+- AI integration in web apps  
+- Scalable full-stack architectures  
+- State management (Redux & Context API)  
+- Optimized UI/UX & TailwindCSS design systems
+
+---
+
+### ⚡ Fun Fact
+I believe **coding should be creative and fun**, and yes — I think I’m funny too 😄
+
+---
+
+<p align="center">“Code is not just lines — it’s a way of bringing ideas to life.” 💻🔥</p>
