@@ -74,9 +74,4 @@ I’m a software developer passionate about **full-stack development, AI automat
 
 ---
 
-### ⚡ Fun Fact
-I believe **coding should be creative and fun**, and yes — I think I’m funny too 😄
-
----
-
 <p align="center">“Code is not just lines — it’s a way of bringing ideas to life.” 💻🔥</p>
