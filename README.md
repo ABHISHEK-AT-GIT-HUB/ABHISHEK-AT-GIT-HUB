@@ -29,28 +29,9 @@ I’m a software developer passionate about **full-stack development, AI automat
 
 ---
 
-### 🛠️ Languages & Tools
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/postman/postman-icon.svg" alt="Postman" width="40" height="40"/>
-  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
-</p>
-
----
-
-### 🏆 GitHub Stats
-
+### 🧠 Tech Stack
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ABHISHEK-AT-GIT-HUB&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ABHISHEK-AT-GIT-HUB&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,express,mongodb,java,git,postman,tailwind" />
 </p>
 
 ---
@@ -59,9 +40,9 @@ I’m a software developer passionate about **full-stack development, AI automat
 
 | Project | Description | Link |
 |---------|-------------|------|
-| **Textile E-Commerce Platform** | Full-featured MERN e-commerce platform with Razorpay integration, cart, checkout, and admin features. | 🔗 [Repo](https://github.com/ABHISHEK-AT-GIT-HUB/Textile-Ecommerce) |
-| **Butterfly Quiz** | Gamified quiz that grows a virtual garden with a butterfly landing on the final flower. | 🔗 [Repo](https://github.com/ABHISHEK-AT-GIT-HUB/Butterfly-Quiz) |
-| **AI/Automation Projects** | Automation and AI-based workflow projects using APIs and intelligent UI. | 🔗 [Repo](https://github.com/ABHISHEK-AT-GIT-HUB?tab=repositories) |
+| **Textile E-Commerce Platform** | Full-featured MERN e-commerce platform with Razorpay integration, cart, checkout, and admin features. | 🔗 [Repo](https://github.com/ABHISHEK-AT-GIT-HUB/E-commerce-website-Textile) |
+| **BookHome** | BookHome is a full-stack web application designed for book lovers to explore, purchase, and manage their favorite books online. It features a clean UI for browsing by genre, author, or price, with secure user authentication, shopping cart, and checkout functionality. | 🔗 [Repo](https://github.com/ABHISHEK-AT-GIT-HUB/BookHome) |
+| **Butterfly Quiz** | Gamified quiz that grows a virtual garden with a butterfly landing on the final flower. | 🔗 [Repo](https://github.com/ABHISHEK-AT-GIT-HUB/-Butterfly-Quiz-project) |
 
 ---
 
